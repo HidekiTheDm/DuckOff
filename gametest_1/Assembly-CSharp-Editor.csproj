@@ -36,9 +36,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Personagens/Coelho/WRFramework/Unity/Editor/Tools/ContinuationManager.cs" />
-     <Compile Include="Assets/Personagens/Coelho/WRFramework/Unity/Editor/Tools/wHiteRabbiTEW.cs" />
-     <Compile Include="Assets/Personagens/Coelho/WRFramework/Unity/Editor/Tools/AboutEW.cs" />
+     <Compile Include="Assets/Sprites/Personagens/Coelho/WRFramework/Unity/Editor/Tools/wHiteRabbiTEW.cs" />
+     <Compile Include="Assets/Sprites/Personagens/Coelho/WRFramework/Unity/Editor/Tools/ContinuationManager.cs" />
+     <Compile Include="Assets/Sprites/Personagens/Coelho/WRFramework/Unity/Editor/Tools/AboutEW.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

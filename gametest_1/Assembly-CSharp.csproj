@@ -36,14 +36,17 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets/Sprites/Personagens/Coelho/WRFramework/Unity/Util/Logo.cs" />
+     <Compile Include="Assets/Sprites/Personagens/Coelho/WRFramework/Unity/UI/GUIHelper.cs" />
      <Compile Include="Assets/Scripts/Player.cs" />
      <Compile Include="Assets/Scripts/GameManager.cs" />
      <Compile Include="Assets/Scripts/NPC.cs" />
+     <Compile Include="Assets/Sprites/Personagens/Coelho/WRFramework/Unity/Extensions/VectorExtensions.cs" />
      <Compile Include="Assets/Scripts/DialogueSystem.cs" />
-     <Compile Include="Assets/Personagens/Coelho/WRFramework/Unity/Extensions/VectorExtensions.cs" />
-     <Compile Include="Assets/Personagens/Coelho/WRFramework/Unity/UI/GUIHelper.cs" />
-     <Compile Include="Assets/Personagens/Coelho/WRFramework/Unity/Util/Logo.cs" />
-     <None Include="Assets/Personagens/Coelho/Scene/DancingRabbit/ReadMe.txt" />
+     <Compile Include="Assets/Sprites/Personagens/Touro2/DemoScene/Action_Manage.cs" />
+     <Compile Include="Assets/Sprites/Personagens/Touro2/DemoScene/demo.cs" />
+     <None Include="Assets/Sprites/Personagens/Touro2/BOSS/Bull/Shader/Cartoon.shader" />
+     <None Include="Assets/Sprites/Personagens/Coelho/Scene/DancingRabbit/ReadMe.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
