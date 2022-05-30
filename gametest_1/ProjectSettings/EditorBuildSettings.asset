@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/WordFight 1.unity
-    guid: 73ebabec814b988439c37264c6bab44d
+    path: Assets/Scenes/MenuInicio.unity
+    guid: 0b02642d5323e4918b40ad1c20944af1
   - enabled: 1
     path: Assets/Scenes/Lvl1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
+    path: Assets/Scenes/WordFight 1.unity
+    guid: 73ebabec814b988439c37264c6bab44d
+  - enabled: 1
     path: Assets/Scenes/MenuPause.unity
     guid: 5fdbeb4ec03e24222b71fb841851c0d0
-  - enabled: 1
-    path: Assets/Scenes/MenuInicio.unity
-    guid: 0b02642d5323e4918b40ad1c20944af1
   m_configObjects: {}

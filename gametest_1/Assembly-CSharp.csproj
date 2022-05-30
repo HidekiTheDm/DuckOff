@@ -46,11 +46,12 @@
      <Compile Include="Assets/Scripts/NPC_Fight.cs" />
      <Compile Include="Assets/Scripts/QuestionsAndAnswers.cs" />
      <Compile Include="Assets/Scripts/NPC.cs" />
+     <Compile Include="Assets/Scripts/MusicLoop.cs" />
      <Compile Include="Assets/Sprites/Personagens/Touro2/DemoScene/demo.cs" />
      <Compile Include="Assets/Sprites/Personagens/Coelho/WRFramework/Unity/Extensions/VectorExtensions.cs" />
      <Compile Include="Assets/Sprites/Personagens/Touro2/DemoScene/Action_Manage.cs" />
      <Compile Include="Assets/Scripts/DialogueSystem.cs" />
-     <Compile Include="Assets/Scripts/MusicLoop.cs" />
+     <Compile Include="Assets/Scripts/MenuInicio.cs" />
      <None Include="Assets/Sprites/Personagens/Touro2/BOSS/Bull/Shader/Cartoon.shader" />
      <None Include="Assets/Sprites/Personagens/Coelho/Scene/DancingRabbit/ReadMe.txt" />
     <Reference Include="UnityEngine">
