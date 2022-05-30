@@ -12,7 +12,22 @@ public class MenuInicio : MonoBehaviour
 
     public void LoadSceneNivel1()
     {
-        Debug.Log("Aqui");
         SceneManager.LoadScene("Lvl1");
     }
+
+    
+
+    void Resume()
+    {
+
+    }
+
+    void Pause()
+    {
+
+    }
+
+    
+
+    
 }
