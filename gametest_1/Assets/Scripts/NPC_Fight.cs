@@ -33,11 +33,11 @@ public class NPC_Fight : MonoBehaviour
     public void OnTriggerEnter(Collider other){
         if(other.gameObject.tag != "Player") return;
         this.gameObject.GetComponent<NPC_Fight>().enabled = true;
-        FindObjectOfType<DialogueSystem>().EnterRangeOfNPC();
+        FindObjectOfType<DiaFightManager>().EnterRangeOfNPC();
     }
      public void OnTriggerExit(Collider other)
     {   if(other.gameObject.tag != "Player") return;
-        FindObjectOfType<DialogueSystem>().OutOfRange();
+        FindObjectOfType<DiaFightManager>().OutOfRange();
         this.gameObject.GetComponent<NPC_Fight>().enabled = false;
     }
 }
