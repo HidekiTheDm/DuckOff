@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MenuInicio : MonoBehaviour
 {
+
     public void ExitGame()
     {
         Application.Quit();
@@ -12,7 +13,7 @@ public class MenuInicio : MonoBehaviour
 
     public void LoadSceneNivel1()
     {
-        SceneManager.LoadScene("Lvl1");
+        SceneManager.LoadScene("Cutscene_1");
     }
 
     
